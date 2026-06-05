@@ -10,9 +10,9 @@
 
 <!-- LIVE STATUS BADGES -->
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE_MISSION-00d4ff?style=flat-square&labelColor=020b18&logo=rocket&logoColor=00d4ff)](https://github.com/Samuel-AI-Electronic-Engineer)
-[![Focus](https://img.shields.io/badge/FOCUS-AI_SYSTEMS_BUILDER-4da6ff?style=flat-square&labelColor=020b18)](https://github.com/samuel-alarcon)
-[![Location](https://img.shields.io/badge/BASE-COLOMBIA_🇨🇴-ffffff?style=flat-square&labelColor=020b18)](https://github.com/samuel-alarcon)
-[![Open To Work](https://img.shields.io/badge/OPEN_TO-COLLABORATIONS-00ff88?style=flat-square&labelColor=020b18)](https://github.com/samuel-alarcon)
+[![Focus](https://img.shields.io/badge/FOCUS-AI_SYSTEMS_BUILDER-4da6ff?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
+[![Location](https://img.shields.io/badge/BASE-COLOMBIA_🇨🇴-ffffff?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
+[![Open To Work](https://img.shields.io/badge/OPEN_TO-COLLABORATIONS-00ff88?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
 
 </div>
 
@@ -61,9 +61,9 @@ engineer = {
 
 ### `> SIGNAL METRICS`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-alarcon&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=4da6ff&text_color=aaccee&border_color=1a3a5c&bg_color=020b18&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-AI-Electronic-Engineer&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=4da6ff&text_color=aaccee&border_color=1a3a5c&bg_color=020b18&hide_border=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-alarcon&layout=compact&theme=transparent&title_color=00d4ff&text_color=aaccee&border_color=1a3a5c&bg_color=020b18)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-AI-Electronic-Engineer&layout=compact&theme=transparent&title_color=00d4ff&text_color=aaccee&border_color=1a3a5c&bg_color=020b18)
 
 </td>
 </tr>
@@ -482,7 +482,7 @@ MISSION TIMELINE — SYSTEMS UNDER DEVELOPMENT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelalarcon-ai)
 [![Email](https://img.shields.io/badge/Email-Contact-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelalarcon2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuel-alarcon)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samuel-AI-Electronic-Engineer)
 
 </div>
 
@@ -499,8 +499,8 @@ MISSION TIMELINE — SYSTEMS UNDER DEVELOPMENT
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=samuel-alarcon&style=flat-square&color=00d4ff&label=PROFILE+VISITS)
-[![GitHub followers](https://img.shields.io/github/followers/samuel-alarcon?style=flat-square&color=4da6ff&labelColor=020b18&label=FOLLOWERS)](https://github.com/samuel-alarcon)
+![Visitor Count](https://komarev.com/ghpvc/?username=Samuel-AI-Electronic-Engineer&style=flat-square&color=00d4ff&label=PROFILE+VISITS)
+[![GitHub followers](https://img.shields.io/github/followers/Samuel-AI-Electronic-Engineer?style=flat-square&color=4da6ff&labelColor=020b18&label=FOLLOWERS)](https://github.com/Samuel-AI-Electronic-Engineer)
 
 *Last mission update: 2025 · Status: 🟢 ONLINE*
 
