@@ -61,9 +61,9 @@ engineer = {
 
 ### `> SIGNAL METRICS`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-AI-Electronic-Engineer&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=4da6ff&text_color=aaccee&border_color=1a3a5c&bg_color=020b18&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samuel-AI-Electronic-Engineer&theme=dark&background=020b18&border=1a3a5c&stroke=00d4ff&ring=4da6ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=aaccee&dates=4da6ff&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/Samuel-AI-Electronic-Engineer)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-AI-Electronic-Engineer&layout=compact&theme=transparent&title_color=00d4ff&text_color=aaccee&border_color=1a3a5c&bg_color=020b18)
+![Profile Views](https://komarev.com/ghpvc/?username=Samuel-AI-Electronic-Engineer&style=flat-square&color=00d4ff&label=PROFILE+VISITS)
 
 </td>
 </tr>
