@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- LIVE STATUS BADGES -->
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE_MISSION-00d4ff?style=flat-square&labelColor=020b18&logo=rocket&logoColor=00d4ff)](https://github.com/Samuel-AI-Electronic-Engineer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=AI+%26+IoT+Systems+Builder+%F0%9F%94%A7;Electronic+Engineer+%7C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;LangGraph+%C2%B7+Gemini+%C2%B7+Claude+Code;Physical+World+%C3%97+Artificial+Intelligence)](https://github.com/Samuel-AI-Electronic-Engineer)
 [![Focus](https://img.shields.io/badge/FOCUS-AI_SYSTEMS_BUILDER-4da6ff?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
 [![Location](https://img.shields.io/badge/BASE-COLOMBIA_🇨🇴-ffffff?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
 [![Open To Work](https://img.shields.io/badge/OPEN_TO-COLLABORATIONS-00ff88?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
@@ -113,14 +113,20 @@ engineer = {
 </div>
 
 ---
+## `◈ MISSION TROPHIES`
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 4 · TECHNOLOGY RADAR                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Samuel-AI-Electronic-Engineer&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Samuel-AI-Electronic-Engineer)
+
+</div>
+
+---
 
 ## `◈ TECHNOLOGY RADAR`
 
 <div align="center">
+
 
 **`[ CORE SYSTEMS ]`**
 
