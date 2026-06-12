@@ -1,4 +1,4 @@
-<!-- README v3 — Samuel Alarcón Hernández — AIoT Engineer -->
+
 
 <div align="center">
 
@@ -73,7 +73,7 @@ engineer = {
         "Azure AI Engineer AI-102 (in progress — June 2026)",
         "Azure AI Skills Fest 2026"
     ],
-    "status"         : "🟢 ONLINE — OPEN TO REMOTE ROLES"
+    "status"         : "🟢 ONLINE"
 }
 ```
 
@@ -91,10 +91,6 @@ engineer = {
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 4 · WHY AIoT — THE DIFFERENTIATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## `◈ WHY AIoT — THE CRITICAL DIFFERENCE`
 
@@ -129,9 +125,6 @@ engineer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 5 · ACTIVE MISSION                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## `◈ ACTIVE MISSION`
 
@@ -154,8 +147,7 @@ engineer = {
 │  ACTIVE WORKSTREAMS                                                     │
 │  ─────────────────────────────────────────────────────────────────     │
 │  ◉  AirQualityPredictorAI — TFT/LSTM + MLflow + IoT sensors + GCP      │
-│  ◉  SmartInventoryAI — YOLOv8 + LangGraph + ESP32-CAM + MQTT          │
-│  ◉  Azure AI Certification — AI-102 & AI-103 (June 2026)              │
+│  ◉  SmartInventoryAI — YOLOv8 + LangGraph + ESP32-CAM + MQTT          │             │
 │  ◎  TelecomInsightAI — LSTM anomaly detection + ClickHouse             │
 │  ◎  RAG Sales Assistant — LangGraph + Qdrant + HubSpot API             │
 │  ◎  Portfolio Website — Next.js 14 + Vercel deployment                │
@@ -171,10 +163,6 @@ engineer = {
 </div>
 
 ---
-
-## `◈ MISSION TROPHIES`
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Samuel-AI-Electronic-Engineer&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=4)](https://github.com/Samuel-AI-Electronic-Engineer)
 
 ---
 
