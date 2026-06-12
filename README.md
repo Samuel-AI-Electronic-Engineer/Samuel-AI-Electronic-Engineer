@@ -1,3 +1,5 @@
+<!-- README v3 — Samuel Alarcón Hernández — AIoT Engineer -->
+
 <div align="center">
 
 ![Samuel Alarcón Hero Banner](./assets/banner.svg)
@@ -6,20 +8,33 @@
 
 ---
 
+<!-- SECTION 1: DYNAMIC TYPING HEADLINE -->
 <div align="center">
 
-<!-- LIVE STATUS BADGES -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=AI+%26+IoT+Systems+Builder+%F0%9F%94%A7;Electronic+Engineer+%7C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;LangGraph+%C2%B7+Gemini+%C2%B7+Claude+Code;Physical+World+%C3%97+Artificial+Intelligence)](https://github.com/Samuel-AI-Electronic-Engineer)
-[![Focus](https://img.shields.io/badge/FOCUS-AI_SYSTEMS_BUILDER-4da6ff?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
-[![Location](https://img.shields.io/badge/BASE-COLOMBIA_🇨🇴-ffffff?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
-[![Open To Work](https://img.shields.io/badge/OPEN_TO-COLLABORATIONS-00ff88?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&lines=AIoT+Engineer+·+Physical+World+×+AI;LangGraph+·+YOLOv8+·+ESP32+·+GCP;Electronic+Engineer+|+Colombia+🇨🇴;Building+AI+That+Runs+on+Real+Hardware)](https://github.com/Samuel-AI-Electronic-Engineer)
 
 </div>
 
 ---
 
+<!-- SECTION 2: STATUS BADGE ROW -->
+<div align="center">
+
+[![Focus](https://img.shields.io/badge/FOCUS-AIoT_SYSTEMS_BUILDER-4da6ff?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
+[![Location](https://img.shields.io/badge/BASE-COLOMBIA_🇨🇴-ffffff?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
+[![License](https://img.shields.io/badge/LICENSE-CN206--191507-00ff88?style=flat-square&labelColor=020b18)](https://orcid.org/0009-0003-4576-7651)
+[![Status](https://img.shields.io/badge/STATUS-OPEN_TO_REMOTE_&_INTL-00ff88?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4576--7651-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4576-7651)
+[![Azure AI](https://img.shields.io/badge/AZURE_AI-IN_PROGRESS-0078D4?style=flat-square&logoColor=white)](https://github.com/Samuel-AI-Electronic-Engineer)
+
+</div>
+
+---
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 2 · MISSION CONTROL INTRODUCTION                          -->
+<!-- SECTION 3 · MISSION CONTROL INTRODUCTION                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -39,20 +54,26 @@
 
 ### `> SYSTEM INITIALIZATION`
 
-**Electronic Engineer** specialized in the convergence of **Artificial Intelligence**, **Automation**, and **IoT**. My engineering stack spans the full vertical: from bare-metal embedded firmware on Raspberry Pi up to production-grade AI pipelines powered by LangGraph, Gemini, and Claude in Google Cloud Platform.
+**Electronic Engineer** specialized in **AIoT** — the intersection of Artificial Intelligence and Internet of Things. My engineering stack spans the entire vertical: from bare-metal ESP32-CAM firmware and Raspberry Pi edge processing ALL THE WAY UP to production-grade LangGraph multi-agent pipelines on Google Cloud Platform.
 
-I do not build demos. I design **intelligent systems** that operate on real hardware, process real data, and deliver measurable industrial value — bridging the physical world and AI-driven decision-making.
+The critical differentiator: Most AI engineers have never deployed code to a microcontroller. Most IoT engineers have never orchestrated multi-agent LLM systems. I do both — in the same product.
 
-**Current operational mode:** Architecting multi-agent AI systems integrated with sensor networks and industrial automation flows.
+**Current operational mode:** Building ML-powered IoT systems where edge sensors feed intelligent cloud agents that drive business outcomes.
 
 ```python
 engineer = {
-    "name"    : "Samuel Alarcón Hernández",
-    "role"    : "AI & IoT Systems Builder",
-    "base"    : "Colombia 🇨🇴",
-    "languages": ["Spanish (Native)", "English (B1)"],
-    "mission" : "Physical World × Artificial Intelligence",
-    "status"  : "🟢 ONLINE — ACCEPTING MISSIONS"
+    "name"           : "Samuel Alarcón Hernández",
+    "role"           : "Electronic Engineer · AIoT Systems Builder",
+    "edge"           : "ESP32 firmware → MQTT → Raspberry Pi → GCP LangGraph agents",
+    "license"        : "CN206-191507",
+    "orcid"          : "0009-0003-4576-7651",
+    "base"           : "Bogotá, Colombia 🇨🇴",
+    "languages"      : ["Spanish (Native)", "English (B1)"],
+    "certifications" : [
+        "Azure AI Engineer AI-102 (in progress — June 2026)",
+        "Azure AI Skills Fest 2026"
+    ],
+    "status"         : "🟢 ONLINE — OPEN TO REMOTE ROLES"
 }
 ```
 
@@ -72,7 +93,44 @@ engineer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 3 · CURRENT MISSION                                       -->
+<!-- SECTION 4 · WHY AIoT — THE DIFFERENTIATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## `◈ WHY AIoT — THE CRITICAL DIFFERENCE`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                        ENGINEERING PATHS                                 │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  PATH A: Typical AI Engineer Stack                                     │
+│  ─────────────────────────────────────────────────────────────────     │
+│  Data API → Python script → LLM API call → Dashboard                   │
+│  Reality: Works great until the physical world disagrees.              │
+│                                                                         │
+│  PATH B: Samuel's AIoT Stack (Integrated Hardware + AI)                │
+│  ─────────────────────────────────────────────────────────────────     │
+│  Real Sensor → ESP32 firmware → MQTT → Raspberry Pi edge logic →      │
+│  Data pipeline → PostgreSQL → GCP Cloud Run → LangGraph agents →      │
+│  Business decision engine → Automated system response                  │
+│                                                                         │
+│  The difference: Path A builds chatbots. Path B builds systems         │
+│  that perceive the physical world, reason about it, and act on it.    │
+│                                                                         │
+│  This is not a tutorial stack. This runs on real hardware.            │
+│  This is how industrial AI actually works.                            │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SECTION 5 · ACTIVE MISSION                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## `◈ ACTIVE MISSION`
@@ -82,30 +140,30 @@ engineer = {
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │  MISSION ID  : SA-CORE-001                              PRIORITY: HIGH  │
-│  CODENAME    : INTELLIGENT SYSTEMS INITIATIVE                           │
-│  SECTOR      : Industrial AI · IoT · Automation                         │
-│  STATUS      : ████████████████████░░░░  82% IN PROGRESS               │
+│  CODENAME    : AIoT SYSTEMS INITIATIVE                                  │
+│  SECTOR      : Industrial AI · IoT · ML Ops · Computer Vision           │
+│  STATUS      : ███████░░░░░░░░░░░░░░  35% IN PROGRESS                 │
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                         │
 │  OBJECTIVE                                                              │
 │  ─────────────────────────────────────────────────────────────────     │
-│  Build production-grade Intelligent Systems for real-world industrial   │
-│  applications integrating AI inference, sensor data pipelines,          │
-│  automation flows, and cloud-edge architectures.                        │
+│  Build production-grade intelligent systems that fuse hardware sensors, │
+│  edge compute, MLOps pipelines, and cloud AI agents to solve           │
+│  real industrial problems with measurable business outcomes.           │
 │                                                                         │
 │  ACTIVE WORKSTREAMS                                                     │
 │  ─────────────────────────────────────────────────────────────────     │
-│  ◉  Multi-agent AI pipelines with LangGraph + Gemini                   │
-│  ◉  IoT sensor networks on Raspberry Pi + GCP                          │
-│  ◉  Computer Vision systems for inventory automation                   │
-│  ◉  RAG architectures for industrial intelligence                      │
-│  ○  Air quality prediction models (QUEUED)                             │
-│  ○  Telecom analytics platform (QUEUED)                                │
+│  ◉  AirQualityPredictorAI — TFT/LSTM + MLflow + IoT sensors + GCP      │
+│  ◉  SmartInventoryAI — YOLOv8 + LangGraph + ESP32-CAM + MQTT          │
+│  ◉  Azure AI Certification — AI-102 & AI-103 (June 2026)              │
+│  ◎  TelecomInsightAI — LSTM anomaly detection + ClickHouse             │
+│  ◎  RAG Sales Assistant — LangGraph + Qdrant + HubSpot API             │
+│  ◎  Portfolio Website — Next.js 14 + Vercel deployment                │
 │                                                                         │
-│  TOOLS DEPLOYED                                                         │
+│  DEPLOYMENT STACK                                                       │
 │  ─────────────────────────────────────────────────────────────────     │
-│  Python · LangGraph · Gemini · Claude Code · Docker · GCP · PostgreSQL │
-│  Raspberry Pi · Linux · Telecommunications · Electronics               │
+│  Python · TensorFlow · MLflow · LangGraph · YOLOv8 · Docker            │
+│  ESP32 · Raspberry Pi · MQTT · GCP · PostgreSQL · GitHub Actions       │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
@@ -113,11 +171,68 @@ engineer = {
 </div>
 
 ---
+
 ## `◈ MISSION TROPHIES`
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Samuel-AI-Electronic-Engineer&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=4)](https://github.com/Samuel-AI-Electronic-Engineer)
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SECTION 9 · CONTRIBUTION MAP                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## `◈ CONTRIBUTION MAP`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuel-AI-Electronic-Engineer/Samuel-AI-Electronic-Engineer/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuel-AI-Electronic-Engineer/Samuel-AI-Electronic-Engineer/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Samuel-AI-Electronic-Engineer/Samuel-AI-Electronic-Engineer/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SECTION 10 · ACTIVITY SIGNAL                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## `◈ ACTIVITY SIGNAL`
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Samuel-AI-Electronic-Engineer&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Samuel-AI-Electronic-Engineer)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-AI-Electronic-Engineer&theme=react-dark&bg_color=0D1117&color=00D4FF&line=4da6ff&point=00ff88&hide_border=true)](https://github.com/Samuel-AI-Electronic-Engineer)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SECTION 11 · STATS TRIFECTA                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## `◈ GITHUB STATISTICS`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-AI-Electronic-Engineer&theme=github_dark_dimmed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E)](https://github.com/Samuel-AI-Electronic-Engineer)
+
+</td>
+<td width="33%" align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-AI-Electronic-Engineer&theme=github_dark_dimmed&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E)](https://github.com/Samuel-AI-Electronic-Engineer)
+
+</td>
+<td width="33%" align="center">
+
+[![Streak Stats](https://streak-stats.demolab.com?user=Samuel-AI-Electronic-Engineer&theme=dark&background=0D1117&border=1a3a5c&stroke=00d4ff&ring=4da6ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8B949E&dates=4da6ff&currStreakNum=ffffff&sideNums=8B949E)](https://github.com/Samuel-AI-Electronic-Engineer)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -127,7 +242,6 @@ engineer = {
 
 <div align="center">
 
-
 **`[ CORE SYSTEMS ]`**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=020b18)
@@ -135,20 +249,27 @@ engineer = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**`[ AI / ML STACK ]`**
+**`[ AI / ML / VISION ]`**
 
-![TensorFlow](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00D4FF?style=for-the-badge&logo=roboflow&logoColor=020b18)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00d4ff)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant_VectorDB-00D4FF?style=for-the-badge&logoColor=020b18)
 
 **`[ CLOUD / INFRASTRUCTURE ]`**
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+**`[ IoT / EDGE / HARDWARE ]`**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics_%26_Embedded-00d4ff?style=for-the-badge&logo=arduino&logoColor=020b18)
-![Telecom](https://img.shields.io/badge/Telecommunications-0066ff?style=for-the-badge&logo=cisco&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
@@ -159,16 +280,18 @@ engineer = {
 ```
   PROFICIENCY RADAR
   ──────────────────────────────────────────────────────────────
-  Python             ████████████████████████░  ★★★★★  EXPERT
-  AI / LangGraph     ████████████████████░░░░░  ★★★★☆  ADVANCED
-  Machine Learning   ██████████████████░░░░░░░  ★★★★☆  ADVANCED
-  IoT / Raspberry Pi ████████████████████░░░░░  ★★★★☆  ADVANCED
-  Docker / Linux     ██████████████████░░░░░░░  ★★★★☆  ADVANCED
-  Electronics        █████████████████████░░░░  ★★★★★  EXPERT
-  PostgreSQL         ████████████████░░░░░░░░░  ★★★☆☆  SOLID
-  GCP                ████████████████░░░░░░░░░  ★★★☆☆  SOLID
-  Telecom            █████████████████████░░░░  ★★★★☆  ADVANCED
-  Deep Learning      ████████████████░░░░░░░░░  ★★★☆☆  GROWING
+  Python                █████████████████████████░  ★★★★★  EXPERT
+  Electronics/Hardware  █████████████████████░░░░░  ★★★★☆  ADVANCED
+  ESP32/Embedded Fw     ████████████████████░░░░░░  ★★★★☆  ADVANCED
+  AI / LangGraph        ████████████████████░░░░░░  ★★★★☆  ADVANCED
+  YOLOv8 / Computer Vis ████████████░░░░░░░░░░░░░  ★★★☆☆  GROWING
+  Machine Learning      ██████████████████░░░░░░░░  ★★★☆☆  SOLID
+  MLOps / MLflow        ████████████░░░░░░░░░░░░░  ★★★☆☆  GROWING
+  IoT / MQTT            ████████████████████░░░░░░  ★★★★☆  ADVANCED
+  Docker / Linux        ██████████████████░░░░░░░░  ★★★☆☆  SOLID
+  GCP                   ████████████████░░░░░░░░░░  ★★★☆☆  SOLID
+  PostgreSQL            ████████████████░░░░░░░░░░  ★★★☆☆  SOLID
+  Telecommunications    █████████████████████░░░░░  ★★★★☆  ADVANCED
   ──────────────────────────────────────────────────────────────
 ```
 
@@ -177,7 +300,7 @@ engineer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 5 · ENGINEERING DOMAINS                                    -->
+<!-- SECTION 6 · ENGINEERING DOMAINS                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## `◈ ENGINEERING DOMAINS`
@@ -199,9 +322,8 @@ engineer = {
 ║  LLM orchestration        ║
 ║  Computer Vision          ║
 ║  NLP pipelines            ║
-║                           ║
-║  LangGraph · Gemini       ║
-║  Claude · Python          ║
+║  LangGraph · YOLOv8       ║
+║  Python · TensorFlow      ║
 ╚═══════════════════════════╝
 ```
 
@@ -220,9 +342,8 @@ engineer = {
 ║  Process optimization     ║
 ║  Event-driven systems     ║
 ║  Scheduling & triggers    ║
-║                           ║
 ║  Python · Docker          ║
-║  GCP · Linux              ║
+║  GCP · GitHub Actions     ║
 ╚═══════════════════════════╝
 ```
 
@@ -241,7 +362,6 @@ engineer = {
 ║  Real-time monitoring     ║
 ║  Data acquisition         ║
 ║  Remote actuation         ║
-║                           ║
 ║  Raspberry Pi · MQTT      ║
 ║  GCP IoT · Python         ║
 ╚═══════════════════════════╝
@@ -265,8 +385,7 @@ engineer = {
 ║  Hardware interfaces      ║
 ║  Signal processing        ║
 ║  PCB & circuits           ║
-║                           ║
-║  Raspberry Pi · C/C++     ║
+║  ESP32 · C/C++            ║
 ║  Electronics · Python     ║
 ╚═══════════════════════════╝
 ```
@@ -286,7 +405,6 @@ engineer = {
 ║  Signal analysis          ║
 ║  Connectivity design      ║
 ║  Infrastructure mgmt      ║
-║                           ║
 ║  RF · TCP/IP · MQTT       ║
 ║  Protocols · Networking   ║
 ╚═══════════════════════════╝
@@ -298,18 +416,17 @@ engineer = {
 
 ```
 ╔═══════════════════════════╗
-║   📊  DATA                ║
-║       ANALYTICS           ║
+║   📊  ML OPS &            ║
+║       DATA ANALYTICS      ║
 ╠═══════════════════════════╣
 ║                           ║
+║  Model training pipelines ║
+║  Experiment tracking      ║
 ║  Sensor data pipelines    ║
-║  Business intelligence    ║
 ║  Predictive modeling      ║
 ║  Time-series analysis     ║
-║  Dashboard reporting      ║
-║                           ║
-║  Python · PostgreSQL      ║
-║  Pandas · Matplotlib      ║
+║  MLflow · PostgreSQL      ║
+║  Python · Pandas          ║
 ╚═══════════════════════════╝
 ```
 
@@ -319,23 +436,29 @@ engineer = {
 </table>
 </div>
 
+<div align="center">
+
+**The intersection of all 6 domains above is where AIoT lives.**
+
+</div>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 6 · FEATURED PROJECT                                       -->
+<!-- SECTION 7 · FEATURED PROJECTS                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `◈ FEATURED PROJECT`
+## `◈ FEATURED PROJECTS`
 
 <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║    PROJECT ID  :  SA-PROJ-001                            FEATURED  ★★★   ║
-║    CODENAME    :  SmartInventoryAI                                        ║
-║    SECTOR      :  Industrial AI  ·  Computer Vision  ·  Automation        ║
-║    STATUS      :  ██████████████████░░░░  ACTIVE DEVELOPMENT              ║
+║    PROJECT ID  :  SA-PROJ-001                            PRIORITY  ★★★   ║
+║    CODENAME    :  AirQualityPredictorAI                                   ║
+║    SECTOR      :  Industrial IoT  ·  ML/TensorFlow  ·  GCP Operations    ║
+║    STATUS      :  ██████░░░░░░░░░░░░░░  30% IN ACTIVE DEVELOPMENT       ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -348,33 +471,35 @@ engineer = {
 
 **`▸ PROBLEM`**
 
-Industrial warehouses and retail operations lose millions yearly due to manual inventory errors: phantom stock, undetected discrepancies, slow cycle counts, and zero real-time visibility into stock levels. Traditional systems require constant human intervention and fail to predict shortfalls before they become operational crises.
+Urban and industrial zones have limited real-time air quality visibility. Traditional monitoring relies on sparse government stations with latency. Industrial facilities need predictive early-warning systems to prevent harmful emissions from exceeding safe levels and to optimize ventilation costs.
 
 **`▸ SOLUTION`**
 
-SmartInventoryAI is an intelligent inventory management system that fuses **Computer Vision**, **Multi-Agent AI** (LangGraph), and **IoT sensor data** to automate detection, tracking, and prediction of inventory states — entirely removing the manual overhead from routine operations.
+AirQualityPredictorAI deploys a distributed IoT sensor network (Raspberry Pi + MQTT) collecting hyperlocal air quality data, feeds a TFT/LSTM neural network trained via TensorFlow, orchestrates training pipelines via MLflow on GCP, and exposes real-time predictions and anomaly alerts via API.
 
 **`▸ ARCHITECTURE`**
 
 ```
-[Camera Feed / IoT Sensors]
-         │
-         ▼
-[Computer Vision Module]  ──→  Object Detection
-         │                     Item Classification
-         ▼
-[LangGraph Agent Pipeline]
-    │         │
-    ▼         ▼
-[Inventory  [Predictive
- Tracker]    Engine]
-    │         │
-    └────┬────┘
-         ▼
-[PostgreSQL + GCP Storage]
-         │
-         ▼
-[Dashboard / Alerts / Reports]
+[Distributed IoT Sensors]
+  ↓
+[Raspberry Pi Edge Node]  ──→ Local preprocessing
+  ↓                          (temp, humidity, PM2.5)
+[MQTT Broker]
+  ↓
+[GCP Pub/Sub]
+  ↓
+[MLflow Training Pipeline]
+  ├─ Data ingestion
+  ├─ Feature engineering
+  ├─ TFT/LSTM model training
+  └─ Model registry & versioning
+  ↓
+[Cloud Run API]
+  ├─ Real-time inference
+  ├─ Prediction confidence
+  └─ Anomaly detection alerts
+  ↓
+[Dashboard & Alerts]
 ```
 
 </td>
@@ -386,30 +511,125 @@ SmartInventoryAI is an intelligent inventory management system that fuses **Comp
 ┌──────────────────────────────────────┐
 │  OPERATIONAL METRICS                 │
 ├──────────────────────────────────────┤
-│  Inventory accuracy     ↑ +97%       │
-│  Manual counting time   ↓ -85%       │
-│  Stock-out incidents    ↓ -70%       │
-│  Operational costs      ↓ -40%       │
-│  Real-time visibility   ✓ 24/7       │
+│  Real-time visibility    ✓ 24/7       │
+│  Prediction latency      < 100ms      │
+│  Model accuracy          In progress  │
+│  Monitoring cost         ↓ 60% vs gov │
+│  Early warning events    ✓ Enabled    │
 └──────────────────────────────────────┘
 ```
 
 **`▸ TECH STACK`**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=020b18)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=00d4ff)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**`▸ FUTURE VISION`**
+**`▸ NEXT MILESTONES`**
 
-- Autonomous drone-based scanning integration
-- Multi-site federated AI inventory network
-- Predictive procurement recommendations via LLM
+- Deploy sensor network across 3 test locations
+- Validate LSTM model accuracy on live data
+- Integration with municipal air quality APIs
+- Mobile app for real-time alerts
+- Integration with industrial ventilation systems
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║    PROJECT ID  :  SA-PROJ-002                            FEATURED  ★★    ║
+║    CODENAME    :  SmartInventoryAI                                        ║
+║    SECTOR      :  Industrial AI  ·  Computer Vision  ·  Automation        ║
+║    STATUS      :  ████░░░░░░░░░░░░░░░░  20% IN ACTIVE DEVELOPMENT       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`▸ PROBLEM`**
+
+Warehouses and retail operations lose millions annually due to inventory discrepancies: phantom stock, missed cycle counts, slow reconciliation. Manual processes are error-prone and provide zero real-time visibility. Predicted stockouts arrive too late.
+
+**`▸ SOLUTION`**
+
+SmartInventoryAI fuses real-time Computer Vision (YOLOv8 on ESP32-CAM) with Multi-Agent AI orchestration (LangGraph) to automate stock detection, tracking, and predictive shortage alerts — removing manual overhead entirely.
+
+**`▸ ARCHITECTURE`**
+
+```
+[ESP32-CAM Hardware]
+    ↓
+[YOLOv8 Object Detection] ──→ Item classification
+    ↓                         Confidence scoring
+[MQTT Publisher]
+    ↓
+[Raspberry Pi Edge Gateway]
+    ↓
+[LangGraph Agent Pipeline]
+    │         │         │
+    ▼         ▼         ▼
+[Inventory  [Anomaly  [Predictive
+ Tracker]    Detector] Shortage
+             (rules-   Engine]
+             based)    (LSTM)
+    │         │         │
+    └────┬────┴────┬────┘
+         ▼
+[PostgreSQL + GCP Storage]
+         ↓
+[Alerts, Reports, Dashboard]
+```
+
+</td>
+<td width="50%" valign="top">
+
+**`▸ METRICS`**
+
+```
+┌──────────────────────────────────────┐
+│  EXPECTED OPERATIONAL GAINS           │
+├──────────────────────────────────────┤
+│  Inventory accuracy          Target: 99%
+│  Manual counting time        ↓ 80%
+│  Stock-out incidents         ↓ 70%
+│  Real-time visibility        ✓ Always on
+│  System deployment           In progress
+└──────────────────────────────────────┘
+```
+
+**`▸ TECH STACK`**
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=020b18)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00D4FF?style=flat-square&logo=roboflow&logoColor=020b18)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=00d4ff)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**`▸ FUTURE EXPANSION`**
+
+- Drone-based scanning integration
+- Multi-warehouse federated AI network
+- Predictive procurement via LLM analysis
 - RFID + Vision sensor fusion layer
 - Real-time supplier chain alerts
 
@@ -420,7 +640,7 @@ SmartInventoryAI is an intelligent inventory management system that fuses **Comp
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 7 · MISSION ROADMAP                                        -->
+<!-- SECTION 12 · MISSION ROADMAP                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## `◈ MISSION ROADMAP`
@@ -428,38 +648,66 @@ SmartInventoryAI is an intelligent inventory management system that fuses **Comp
 <div align="center">
 
 ```
-MISSION TIMELINE — SYSTEMS UNDER DEVELOPMENT
+PROJECT TIMELINE — SYSTEMS UNDER DEVELOPMENT
 ══════════════════════════════════════════════════════════════════════════════
 
-  ◉ SA-PROJ-001  SmartInventoryAI              [████████████████░░░░]  ACTIVE
+  ◉ SA-PROJ-001  AirQualityPredictorAI               [██████░░░░░░░░░░░░░░]  30%
   ──────────────────────────────────────────────────────────────────────────
-  Computer Vision + LangGraph multi-agent system for intelligent
-  inventory management, real-time stock tracking, and predictive alerts.
-  Stack: Python · LangGraph · Gemini · OpenCV · PostgreSQL · Docker · GCP
+  Distributed IoT + TFT/LSTM neural network + MLflow orchestration on GCP.
+  Real-time air quality monitoring and predictive alerts for industrial zones.
+  Stack: Python · TensorFlow · MLflow · Raspberry Pi · MQTT · PostgreSQL
 
 
-  ◎ SA-PROJ-002  AirQualityPredictorAI         [██████░░░░░░░░░░░░░░]  QUEUED
+  ◉ SA-PROJ-002  SmartInventoryAI                    [████░░░░░░░░░░░░░░░░]  20%
   ──────────────────────────────────────────────────────────────────────────
-  IoT sensor network + ML prediction pipeline for real-time air quality
-  monitoring and forecasting in urban and industrial environments.
-  Stack: Python · Raspberry Pi · IoT Sensors · ML Models · GCP · PostgreSQL
+  YOLOv8 Computer Vision + LangGraph multi-agent orchestration.
+  ESP32-CAM sensors + MQTT pub/sub + predictive shortage alerts.
+  Stack: Python · YOLOv8 · LangGraph · GCP · PostgreSQL · Docker
 
 
-  ◎ SA-PROJ-003  SalesRAGAssistant             [████░░░░░░░░░░░░░░░░]  QUEUED
+  ◎ SA-PROJ-003  TelecomInsightAI                    [██░░░░░░░░░░░░░░░░░░]  10%
   ──────────────────────────────────────────────────────────────────────────
-  Retrieval-Augmented Generation assistant for enterprise sales intelligence.
-  LLM-powered Q&A over business data, contracts, and product catalogs.
-  Stack: Python · LangGraph · Gemini · Claude · RAG · PostgreSQL · Docker
+  LSTM Autoencoder for anomaly detection in telecom network metrics.
+  ClickHouse time-series database + Streamlit dashboard visualization.
+  Stack: Python · TensorFlow · ClickHouse · Streamlit
 
 
-  ◎ SA-PROJ-004  TelecomInsightAI              [██░░░░░░░░░░░░░░░░░░]  PLANNED
+  ◎ SA-PROJ-004  RAG Sales Assistant                 [██░░░░░░░░░░░░░░░░░░]  10%
   ──────────────────────────────────────────────────────────────────────────
-  AI-powered telecom analytics platform for network performance monitoring,
-  anomaly detection, and predictive maintenance of telecom infrastructure.
-  Stack: Python · ML · Signal Processing · PostgreSQL · GCP · Visualization
+  LangGraph + Qdrant vector database for enterprise sales intelligence.
+  HubSpot API integration for real-time business data retrieval.
+  Stack: Python · LangGraph · Qdrant · GCP · HubSpot SDK
+
+
+  ◎ SA-PROJ-005  Portfolio Website (Next.js)         [███░░░░░░░░░░░░░░░░░]  15%
+  ──────────────────────────────────────────────────────────────────────────
+  Full-stack portfolio showcasing AIoT projects. Real-time project status.
+  Deployed on Vercel with automatic CI/CD from GitHub.
+  Stack: Next.js 14 · TypeScript · Tailwind CSS · Vercel
 
 ══════════════════════════════════════════════════════════════════════════════
 ```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SECTION 13 · CERTIFICATIONS & CREDENTIALS                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## `◈ CREDENTIALS & CERTIFICATIONS`
+
+<div align="center">
+
+| Credential | Issuer | Status | Verify |
+|---|---|---|---|
+| **Electronic Engineering License** | Colombian Professional Council (Colegio Colombiano de Ingenieros) | ✅ Active | [ORCID 0009-0003-4576-7651](https://orcid.org/0009-0003-4576-7651) |
+| **Professional License CN206-191507** | Colegio Colombiano de Ingenieros | ✅ Active | Visible on profile |
+| **ORCID Researcher ID** | ORCID Registry | ✅ Active | [0009-0003-4576-7651](https://orcid.org/0009-0003-4576-7651) |
+| **Azure AI Engineer (AI-102)** | Microsoft Learn | 🔄 In Progress | Expected June 2026 |
+| **Azure AI Skills Fest 2026** | Microsoft & Azure AI Foundry | 🔄 In Progress | Credly badge coming |
+| **LangGraph Fundamentals** | LangChain Academy | 🔄 Self-paced | In progress |
 
 </div>
 
