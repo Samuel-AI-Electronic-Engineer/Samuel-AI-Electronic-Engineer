@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 ![Samuel Alarcón Hero Banner](./assets/banner.svg)
@@ -25,7 +24,6 @@
 [![License](https://img.shields.io/badge/LICENSE-CN206--191507-00ff88?style=flat-square&labelColor=020b18)](https://orcid.org/0009-0003-4576-7651)
 [![Status](https://img.shields.io/badge/STATUS-OPEN_TO_REMOTE_&_INTL-00ff88?style=flat-square&labelColor=020b18)](https://github.com/Samuel-AI-Electronic-Engineer)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4576--7651-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4576-7651)
-[![Azure AI](https://img.shields.io/badge/AZURE_AI-IN_PROGRESS-0078D4?style=flat-square&logoColor=white)](https://github.com/Samuel-AI-Electronic-Engineer)
 
 </div>
 
@@ -80,52 +78,6 @@ engineer = {
 </td>
 <td width="32%" valign="top">
 
-### `> SIGNAL METRICS`
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Samuel-AI-Electronic-Engineer&theme=dark&background=020b18&border=1a3a5c&stroke=00d4ff&ring=4da6ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=aaccee&dates=4da6ff&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/Samuel-AI-Electronic-Engineer)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Samuel-AI-Electronic-Engineer&style=flat-square&color=00d4ff&label=PROFILE+VISITS)
-
-</td>
-</tr>
-</table>
-
----
-
-## `◈ WHY AIoT — THE CRITICAL DIFFERENCE`
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                        ENGINEERING PATHS                                 │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│  PATH A: Typical AI Engineer Stack                                     │
-│  ─────────────────────────────────────────────────────────────────     │
-│  Data API → Python script → LLM API call → Dashboard                   │
-│  Reality: Works great until the physical world disagrees.              │
-│                                                                         │
-│  PATH B: Samuel's AIoT Stack (Integrated Hardware + AI)                │
-│  ─────────────────────────────────────────────────────────────────     │
-│  Real Sensor → ESP32 firmware → MQTT → Raspberry Pi edge logic →      │
-│  Data pipeline → PostgreSQL → GCP Cloud Run → LangGraph agents →      │
-│  Business decision engine → Automated system response                  │
-│                                                                         │
-│  The difference: Path A builds chatbots. Path B builds systems         │
-│  that perceive the physical world, reason about it, and act on it.    │
-│                                                                         │
-│  This is not a tutorial stack. This runs on real hardware.            │
-│  This is how industrial AI actually works.                            │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-
 ## `◈ ACTIVE MISSION`
 
 <div align="center">
@@ -135,54 +87,32 @@ engineer = {
 │  MISSION ID  : SA-CORE-001                              PRIORITY: HIGH  │
 │  CODENAME    : AIoT SYSTEMS INITIATIVE                                  │
 │  SECTOR      : Industrial AI · IoT · ML Ops · Computer Vision           │
-│  STATUS      : ███████░░░░░░░░░░░░░░  35% IN PROGRESS                 │
+│  STATUS      : ███████░░░░░░░░░░░░░░  35% IN PROGRESS                   │
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                         │
 │  OBJECTIVE                                                              │
-│  ─────────────────────────────────────────────────────────────────     │
+│  ─────────────────────────────────────────────────────────────────      │
 │  Build production-grade intelligent systems that fuse hardware sensors, │
-│  edge compute, MLOps pipelines, and cloud AI agents to solve           │
-│  real industrial problems with measurable business outcomes.           │
+│  edge compute, MLOps pipelines, and cloud AI agents to solve            │
+│  real industrial problems with measurable business outcomes.            │
 │                                                                         │
 │  ACTIVE WORKSTREAMS                                                     │
-│  ─────────────────────────────────────────────────────────────────     │
-│  ◉  AirQualityPredictorAI — TFT/LSTM + MLflow + IoT sensors + GCP      │
-│  ◉  SmartInventoryAI — YOLOv8 + LangGraph + ESP32-CAM + MQTT          │             │
-│  ◎  TelecomInsightAI — LSTM anomaly detection + ClickHouse             │
-│  ◎  RAG Sales Assistant — LangGraph + Qdrant + HubSpot API             │
-│  ◎  Portfolio Website — Next.js 14 + Vercel deployment                │
+│  ─────────────────────────────────────────────────────────────────      │
+│  ◉  AirQualityPredictorAI — TFT/LSTM + MLflow + IoT sensors             │
+│  ◉  SmartInventoryAI — YOLOv8 + LangGraph + ESP32-CAM + MQTT            │             
+│  ◎  TelecomInsightAI — LSTM anomaly detection + ClickHouse              │
+│  ◎  RAG Sales Assistant — LangGraph + Qdrant + HubSpot API              │
+│  ◎  Portfolio Website — Next.js 14 + Vercel deployment                  │
 │                                                                         │
 │  DEPLOYMENT STACK                                                       │
-│  ─────────────────────────────────────────────────────────────────     │
-│  Python · TensorFlow · MLflow · LangGraph · YOLOv8 · Docker            │
-│  ESP32 · Raspberry Pi · MQTT · GCP · PostgreSQL · GitHub Actions       │
+│  ─────────────────────────────────────────────────────────────────      │
+│  Python · TensorFlow · MLflow · LangGraph · YOLOv8 · Docker             │
+│  ESP32 · Raspberry Pi · MQTT · GCP · PostgreSQL · GitHub Actions        │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
-
----
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 9 · CONTRIBUTION MAP                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## `◈ CONTRIBUTION MAP`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuel-AI-Electronic-Engineer/Samuel-AI-Electronic-Engineer/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuel-AI-Electronic-Engineer/Samuel-AI-Electronic-Engineer/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Samuel-AI-Electronic-Engineer/Samuel-AI-Electronic-Engineer/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 10 · ACTIVITY SIGNAL                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## `◈ ACTIVITY SIGNAL`
 
@@ -690,12 +620,11 @@ PROJECT TIMELINE — SYSTEMS UNDER DEVELOPMENT
 
 | Credential | Issuer | Status | Verify |
 |---|---|---|---|
-| **Electronic Engineering License** | Colombian Professional Council (Colegio Colombiano de Ingenieros) | ✅ Active | [ORCID 0009-0003-4576-7651](https://orcid.org/0009-0003-4576-7651) |
-| **Professional License CN206-191507** | Colegio Colombiano de Ingenieros | ✅ Active | Visible on profile |
-| **ORCID Researcher ID** | ORCID Registry | ✅ Active | [0009-0003-4576-7651](https://orcid.org/0009-0003-4576-7651) |
-| **Azure AI Engineer (AI-102)** | Microsoft Learn | 🔄 In Progress | Expected June 2026 |
+| **Professional License CN206-191507** | Consejo Profesional de Ingenierias | ✅ Active | Visible on profile |
+| **ORCID Researcher ID** | ORCID Registry | ✅ Active | [ORCID 0009-0003-4576-7651](https://orcid.org/0009-0003-4576-7651) |
+| **Azure AI Engineer (AI-103)** | Microsoft Learn | 🔄 In Progress | Expected July 2026 |
 | **Azure AI Skills Fest 2026** | Microsoft & Azure AI Foundry | 🔄 In Progress | Credly badge coming |
-| **LangGraph Fundamentals** | LangChain Academy | 🔄 Self-paced | In progress |
+| **Claude Code** | Antropic Certificate | ✅ Active | Complete |
 
 </div>
 
@@ -734,10 +663,10 @@ PROJECT TIMELINE — SYSTEMS UNDER DEVELOPMENT
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║   "Where Electronics Meets Artificial Intelligence"                     ║
+║   "Where Electronics Meets Artificial Intelligence"                      ║
 ║                                                                          ║
-║    Samuel Alarcón Hernández · Electronic Engineer · Colombia 🇨🇴         ║
-║    AI Systems  ·  Automation  ·  IoT  ·  Embedded  ·  Telecommunications║
+║    Samuel Alarcón Hernández · Electronic Engineer · Colombia 🇨🇴          ║
+║    AI Systems  ·  Automation  ·  IoT  ·  Embedded  ·  Telecommunications ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
