@@ -688,12 +688,6 @@ PROJECT TIMELINE — SYSTEMS UNDER DEVELOPMENT
 
 ---
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 15 · OPEN CHANNELS                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## `◈ OPEN CHANNELS`
 
 <div align="center">
@@ -737,7 +731,6 @@ PROJECT TIMELINE — SYSTEMS UNDER DEVELOPMENT
 ║    Samuel Alarcón Hernández · Electronic Engineer · Colombia 🇨🇴          ║
 ║    License CN206-191507 · ORCID 0009-0003-4576-7651                      ║
 ║    AI Systems · IoT · Automation · MLOps · Telecommunications            ║
-║    🌍 Open to remote work worldwide                                       ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
