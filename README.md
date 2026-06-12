@@ -688,21 +688,6 @@ PROJECT TIMELINE — SYSTEMS UNDER DEVELOPMENT
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 14 · RECENT ACTIVITY — AUTO-UPDATED                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## `◈ RECENT ACTIVITY`
-
-<div align="center">
-
-*Auto-updated every 24h via GitHub Actions · Last 5 engineering events*
-
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
