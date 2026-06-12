@@ -577,24 +577,6 @@ SmartInventoryAI fuses real-time Computer Vision (YOLOv8 on ESP32-CAM) with Mult
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 9 · CONTRIBUTION SNAKE                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## `◈ CONTRIBUTION MAP`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuel-AI-Electronic-Engineer/Samuel-AI-Electronic-Engineer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuel-AI-Electronic-Engineer/Samuel-AI-Electronic-Engineer/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Samuel-AI-Electronic-Engineer/Samuel-AI-Electronic-Engineer/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- SECTION 10 · ACTIVITY GRAPH                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -697,7 +679,7 @@ PROJECT TIMELINE — SYSTEMS UNDER DEVELOPMENT
 
 | Credential | Issuer | Status | Verify |
 |:---|:---|:---:|:---:|
-| **Professional License CN206-191507** | Colombian Professional Council | ✅ Active | [ORCID](https://orcid.org/0009-0003-4576-7651) |
+| **Professional License CN206-191507** | Consejo Profesional Nacional de Ingenierias | ✅ Active | [ORCID](https://orcid.org/0009-0003-4576-7651) |
 | **ORCID Researcher ID 0009-0003-4576-7651** | ORCID Registry | ✅ Active | [Link](https://orcid.org/0009-0003-4576-7651) |
 | **Azure AI Engineer (AI-103)** | Microsoft Learn | 🔄 In Progress | Expected Jul 2026 |
 | **Azure AI Skills Fest 2026** | Microsoft | 🔄 In Progress | Credly — Jun 2026 |
